@@ -149,10 +149,3 @@ header img {
   );
   box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
 }
-
-.eth {
-  width: 30px;
-  cursor: pointer;
-  margin-bottom: -3px;
-  margin-left: -5px;
-}
