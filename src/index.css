@@ -16,7 +16,21 @@ body {
     rgba(0, 255, 111, 1) 0%,
     rgba(168, 125, 125, 1) 100%
   );
+  /* background-size: 200% 200%;
+  animation: gradient 5s ease infinite; */
 }
+
+/* @keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+} */
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
